@@ -9,10 +9,10 @@ This repository is hosting the following projects through its branches :
 	- [Libft](https://github.com/tacmath/libft)
 		<dd>It's my first library of simple functions.<dd>
 
-	- [Get\\_next_line](https://github.com/tacmath/get_next_line)
+	- [Get\_next_line](https://github.com/tacmath/get_next_line)
 		<dd>Get next line is a function that return the next line of a file descriptor.<dd>
 	
-	-  [fillit](https://github.com/tacmath/fillit)
+	-  [Fillit](https://github.com/tacmath/fillit)
 		<dd>Fillit is a progam that place different tetriminos to create the smalest square possible.<dd>
 
 - Algorithm (right branch) :
@@ -26,8 +26,14 @@ This repository is hosting the following projects through its branches :
 
 	![](https://github.com/tacmath/assets/blob/master/fillerHigh.gif?raw=true)
 	
-	- [lem_in](https://github.com/tacmath/lem_in)
+	- [Lem_in](https://github.com/tacmath/lem_in)
 		<dd>lem in is a program of path finding that aim to move a number of ant from a start to an end with the less turn as possible.<dd>
+	- [Corewar](https://github.com/tacmath/corewar)
+		<dd>corewar is a project of 2 main part:<dd>
+		- <b>First the asm</b> : A program that compile champions in assembly language, and generate a binary programs that can be interpreted by the virtual machine.<dd>
+		- <b>Second the is the virtual machine</b> : It will house the binary programs (the champions) and provide them with a standard execution environment, It offers a lot of features useful to the fight.<dd>
+	
+	![](https://github.com/tacmath/assets/blob/master/DemoCorewar.gif?raw=true)
 
 - Graphics (lower branch) :
 	- [FDF](https://github.com/tacmath/FDF)
@@ -38,3 +44,10 @@ This repository is hosting the following projects through its branches :
 		<dd>fract'ol is a project which aim to draw different fractals and being able to zoom until the computer can't make the computation anymore.<dd>
 	
 	![](https://github.com/tacmath/assets/blob/master/fractol.gif?raw=true)
+- System (Upper branch) :
+	- [Ft_ls](https://github.com/tacmath/ft_ls)
+		<dd>Ft_ls is a project which aim to try to recreate the command ls with the options -a -l -r -R -t <dd>
+	- [Minishell](https://github.com/tacmath/minishell)
+		<dd>Minishell is a program able to interpret command and lauch them and is able to use the environment<dd>
+	- [Ft_select](https://github.com/tacmath/ft_ls)
+		<dd>Ft_ls is a selection program that use termcaps<dd>
