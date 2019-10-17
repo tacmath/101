@@ -47,7 +47,7 @@ This repository is hosting the following projects through its branches :
 - System (Upper branch) :
 	- [Ft_ls](https://github.com/tacmath/ft_ls)
 		<dd>Ft_ls is a project which aim to try to recreate the command ls with the options -a -l -r -R -t .<dd>
-	- [Minishell](https://github.com/tacmath/minishell)
+	- [Minishell(WIP)](https://github.com/tacmath/minishell)
 		<dd>Minishell is a program able to interpret command and lauch them and is able to use the environment.<dd>
 	- [Ft_select](https://github.com/tacmath/ft_select)
 		<dd>Ft_ls is a selection program that use termcaps.<dd>
