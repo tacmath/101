@@ -33,7 +33,7 @@ This repository is hosting the following projects through its branches :
 		- <b>First the asm</b> : A program that compile champions in assembly language, and generate a binary programs that can be interpreted by the virtual machine.<dd>
 		- <b>Second the is the virtual machine</b> : It will house the binary programs (the champions) and provide them with a standard execution environment, It offers a lot of features useful to the fight.<dd>
 	
-	![](https://github.com/tacmath/assets/blob/master/DemoCorewar.gif?raw=true)
+	![](https://github.com/tacmath/assets/blob/master/DemoCorewar%20.gif?raw=true)
 
 - Graphics (lower branch) :
 	- [FDF](https://github.com/tacmath/FDF)
