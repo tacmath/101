@@ -28,6 +28,9 @@ This repository is hosting the following projects through its branches :
 	
 	- [Lem_in](https://github.com/tacmath/lem_in)
 		<dd>lem in is a program of path finding that aim to move a number of ant from a start to an end with the less turn as possible.<dd>
+	
+	![](https://github.com/tacmath/assets/blob/master/Lemin.gif?raw=true)
+	
 	- [Corewar](https://github.com/tacmath/corewar)
 		<dd>corewar is a project of 2 main part:<dd>
 		- <b>First the asm</b> : A program that compile champions in assembly language, and generate a binary programs that can be interpreted by the virtual machine.<dd>
@@ -51,3 +54,5 @@ This repository is hosting the following projects through its branches :
 		<dd>Minishell is a program able to interpret command and lauch them and is able to use the environment.<dd>
 	- [Ft_select](https://github.com/tacmath/ft_select)
 		<dd>Ft_ls is a selection program that use termcaps.<dd>
+	
+	![](https://github.com/tacmath/assets/blob/master/ft_Select.gif?raw=true)
